@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.h{
+  display: flex;
+  flex-direction: row;
+}
+.hello{
+  margin: -5px;
+  border-left: 5% solid black;
+  background:url("galaxyy.jpg");
+  padding:10%;
+}
+.hello1{
+  color: rgba(122, 132, 169, 0.621);
+}
+.he{
+  padding-right: 30px;
+
+}
+.missions{
+  padding-left: 35%;
+  color:white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+}
