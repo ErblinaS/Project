@@ -67,6 +67,18 @@ import Comments from './Comments';
   <Comments currentUserId="1"/>
 </div>
   );
+//OSE BEFORE REFRESHING
+ // return (
+  //   <div className='user'>
+  //       <span className='user-key'>Name: </span>
+  //       <span className='user-value'>{user?.mission_name}</span> <br />
+  //       <span className='user-key'>ID: </span>
+  //       <span className='user-value'>{user?.id}</span> <br />
+  //       <span className='user-key'>Details: </span>
+  //       <span className='user-value'>{user?.launch_site.site_name_long}</span> <br />
+  //   </div>
+    
+  // )
 }
 
     export default Details;
