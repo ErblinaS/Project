@@ -33,6 +33,8 @@ import Comments from './Comments';
 //    setItems(items);
 //   }
 // }, []);
+      
+      //DISPLAYING ALL DATA
   return (
     <div className='user'>
     
@@ -67,7 +69,7 @@ import Comments from './Comments';
   <Comments currentUserId="1"/>
 </div>
   );
-//OSE BEFORE REFRESHING
+//OR DISPLAYING SPECIFIC DATA 
  // return (
   //   <div className='user'>
   //       <span className='user-key'>Name: </span>
